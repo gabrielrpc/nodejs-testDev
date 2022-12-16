@@ -1,0 +1,58 @@
+{
+  "0": {
+    "_id": "639bb8f38689ca3f1a43b21f",
+    "nome_aluno": "um",
+    "email_aluno": "um",
+    "data_nasc_aluno": "1996-10-19T00:00:00.000Z",
+    "matricula_aluno": "um",
+    "__v": 0
+  },
+  "1": {
+    "_id": "639bb92e8689ca3f1a43b223",
+    "nome_aluno": "dois",
+    "email_aluno": "dois",
+    "data_nasc_aluno": "1996-10-19T00:00:00.000Z",
+    "matricula_aluno": "dois",
+    "__v": 0
+  },
+  "2": {
+    "_id": "639bb93c8689ca3f1a43b227",
+    "nome_aluno": "tres",
+    "email_aluno": "tres",
+    "data_nasc_aluno": "1996-10-19T00:00:00.000Z",
+    "matricula_aluno": "tres",
+    "__v": 0
+  },
+  "3": {
+    "_id": "639bb9ecbe45e80cb69a8fb5",
+    "nome_aluno": "quatro",
+    "email_aluno": "quatro",
+    "data_nasc_aluno": "1996-10-19T00:00:00.000Z",
+    "matricula_aluno": "quatro",
+    "__v": 0
+  },
+  "4": {
+    "_id": "639bbb1642d0228155754366",
+    "nome_aluno": "cinco",
+    "email_aluno": "cinco",
+    "data_nasc_aluno": "1996-10-19T00:00:00.000Z",
+    "matricula_aluno": "cinco",
+    "__v": 0
+  },
+  "5": {
+    "_id": "639bbb54f4a223417f7ac175",
+    "nome_aluno": "seis",
+    "email_aluno": "seis",
+    "data_nasc_aluno": "1996-10-19T00:00:00.000Z",
+    "matricula_aluno": "seis",
+    "__v": 0
+  },
+  "6": {
+    "_id": "639bbc117d1491110789db0e",
+    "nome_aluno": "sete",
+    "email_aluno": "sete",
+    "data_nasc_aluno": "1996-10-19T00:00:00.000Z",
+    "matricula_aluno": "sete",
+    "__v": 0
+  }
+}
