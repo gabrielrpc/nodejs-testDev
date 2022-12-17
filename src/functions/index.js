@@ -1,6 +1,6 @@
 const fs = require("fs");
 
-const JSONWrite = (file, data, encoding = "utf-8", flag) => {
+const JSONWrite = (file, data, encoding = "utf-8") => {
   const promiseCalback = (resolve, reject) => {
     fs.writeFile(file, JSON.stringify(data, null, 2), encoding, (err) => {
       if (err) {
